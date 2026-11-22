@@ -1,0 +1,6 @@
+Configuration,Lifetime_Rounds,PDR_Percent,Energy_J,Delay_ms
+8D-CSS only,2680,92.1,0.36,53.2
+TRA only,2850,93.8,0.32,48.5
+CBRP only,2720,91.5,0.38,51.7
+8D-CSS + TRA,3020,95.1,0.3,44.8
+Full Framework,3150,96.5,0.28,41.3
