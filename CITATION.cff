@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these benchmark results or figures, please cite the following IEEE Sensors Journal article."
+title: "A Hybrid 8-D-Chaotic Search and Bioinspired Rejuvenation Framework for Energy-Efficient Routing in Wireless Body Sensor Networks"
+authors:
+  - family-names: "Jebur"
+    given-names: "Tuqa K."
+  - family-names: "Peñalver"
+    given-names: "Lourdes"
+  - family-names: "Lloret"
+    given-names: "Jaime"
+  - family-names: "Hoomod"
+    given-names: "Haider K."
+journal: "IEEE Sensors Journal"
+volume: 26
+issue: 11
+start: 17845
+end: 17852
+year: 2026
+doi: "10.1109/JSEN.2026.3680837"
